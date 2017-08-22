@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Mutichoice_Listview</string>
+    <string name="movie_booking">Movie Booking</string>
+    
+    <string-array name="Movie_Name">
+        <item>Airlift</item>
+        <item>Barfi</item>
+        <item>Ready</item>
+        <item>Bajrangi Bhaijaan</item>
+        <item>Dilwale</item>
+        <item>Madras Cafe</item>
+        <item>Queen</item>
+        <item>Robot</item>
+        <item>Talaash</item>
+
+    </string-array>
+</resources>
